@@ -1,4 +1,4 @@
-# ASD_labs
+# ADS-1_labs
 Algorithms and data structures - 1. Fundamentals of algorithmization
 
 Variant 5
