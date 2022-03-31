@@ -1,5 +1,5 @@
 # ADS-1_labs
-Algorithms and data structures - 1. Fundamentals of algorithmization
+Algorithms and data structures - 1. Algorithmization basics
 
 Variant 5
 
